@@ -1,4 +1,4 @@
-# exp4
+# A_48_Nvdia
 
 - name: nginx install and start services
   hosts: all
